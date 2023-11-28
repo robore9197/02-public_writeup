@@ -14,3 +14,5 @@
 ## Debug with QEMU
 
 ## Reverse code from kernel.bin
+
+## Reverse code from kernel.iso file
