@@ -8,3 +8,7 @@
 ## 02.01 QEMU
 
 ## 02.02 Image to SD card
+
+# Plans
+
+## Reverse code from kernel.bin
