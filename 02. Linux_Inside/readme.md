@@ -11,4 +11,6 @@
 
 # Plans
 
+## Debug with QEMU
+
 ## Reverse code from kernel.bin
